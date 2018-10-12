@@ -8,6 +8,7 @@ Abstract : The application is designed to make it easier for civilian volunteers
 Functionality: The functionality is to make the process simple for civilian volunteers to connect with different organisations to help the people who need relief. The functions for the app are divided into two: one for the leader and one for the volunteers 
 
 Overview of the working of the app:
+
 For the head of the volunteer group:
 
 1)Register on the app as a volunteer head.
